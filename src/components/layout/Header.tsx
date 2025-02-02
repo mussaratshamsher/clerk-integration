@@ -8,8 +8,8 @@ export default function Header() {
         <nav className='flex'>
             <ul>
             <li>
-       <Link href='/auth'><button className='bg-blue-300 text-black'>
-        User</button></Link>
+       <Link href='/auth'><button className='bg-blue-300 text-black p-3 mx-20 my-3'>
+        Profile</button></Link>
             </li></ul>
         </nav>
         
