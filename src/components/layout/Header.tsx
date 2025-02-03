@@ -10,6 +10,9 @@ export default function Header() {
             <li>
        <Link href='/auth'><button className='bg-blue-300 text-black p-3 mx-20 my-3'>
         Profile</button></Link>
+
+        <Link href='/contactForm'><button className='bg-blue-300 text-black p-3 mx-20 my-3'>
+      Contact</button></Link>
             </li></ul>
         </nav>
         
